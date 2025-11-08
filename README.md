@@ -1,7 +1,7 @@
 # 🎯 Number Guessing Game
 ### 💼 Internship Project — OASIS INFOBYTE (Task 2)
 
-![Train Reservation Banner]()
+![Train Reservation Banner](https://github.com/rakshiii2605/OIBSIP2/blob/main/guess-the-number.png)
 
 ## 🌟 Project Overview
 This project is part of my **Oasis Infobyte Java Development Internship – Task 2**, where I developed a simple yet fun **Number Guessing Game** using **Java** and **VS Code**.
